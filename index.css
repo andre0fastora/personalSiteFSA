@@ -1,0 +1,19 @@
+.name {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.title {
+  text-align: center;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+main {
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
